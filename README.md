@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Krista 👋
 
-<!--
-**mtyalab/mtyalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Passionate about building scalable applications and solving real-world problems
+- 📱 Building modern mobile and web applications
+- ⚡ Focused on creating clean, functional, and user-friendly products
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+```text
+Frontend: Angular
+Mobile: Flutter, Kotlin, Jetpack Compose
+Backend: Spring Boot
+Languages: Java, Kotlin, TypeScript, Dart, JavaScript
+Tools: Git, GitHub, Postman, Docker
+Databases: MySQL, PostgreSQL
