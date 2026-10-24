@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack
 ```text
 Frontend: Angular, React
-Mobile: Flutter, Kotlin, Jetpack Compose
+Mobile: Flutter, Kotlin
 Backend: Spring Boot
 Languages: Java, Kotlin, TypeScript, Dart, JavaScript
 Tools: Git, GitHub, Postman, Docker
